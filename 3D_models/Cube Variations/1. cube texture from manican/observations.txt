@@ -1,0 +1,5 @@
+Material from the manican was applied to the cube.
+What was realized was that for the bottom portion of the obj mtl files,
+when an image is attached: "map_Kd 02_-_Default1noCulling.JPG"
+the image becomes fully white.
+To change this, the 

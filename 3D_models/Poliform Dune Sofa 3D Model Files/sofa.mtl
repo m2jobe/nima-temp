@@ -1,0 +1,57 @@
+# Blender MTL File: 'sofa modification.blend'
+# Material Count: 5
+
+newmtl BlackPillow.001
+Ns 0.778548
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.049020 0.049020 0.049020
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sofa fabrics\\dark grey fabric texture.jpg
+
+newmtl GreyPillow.001
+Ns 1.619381
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.078431 0.078431 0.078431
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sofa fabrics\\blue fabric texture.jpg
+
+newmtl Material.002
+Ns 0.957326
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.058824 0.058824 0.058824
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd sofa fabrics\\wool blue texture.jpg
+
+newmtl SofaMat.001
+Ns 7.321798
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sofa fabrics\\gray-texture-wallpaper-preview.jpg
+
+newmtl WhitePillow.001
+Ns 1.619381
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.088235 0.088235 0.088235
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd sofa fabrics\\yellow fabric texture.jpg

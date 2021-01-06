@@ -1,0 +1,39 @@
+# Blender MTL File: 'Mammoth_sofa.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\american_walnut_crown_cut_Base_Color.jpg
+map_Ks D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\american_walnut_crown_cut_Specular.jpg
+map_Ns D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\american_walnut_crown_cut_Roughness.jpg
+refl D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\american_walnut_crown_cut_Metallic.jpg
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\leather_bull_Specular.jpg
+map_Ns D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\leather_bull_Roughness.jpg
+refl D:\\Dossier bureau\\أعمالي\\Furniture\\Norr11\\Mammoth_sofa\\textures\\leather_bull_Metallic.jpg
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.407240 0.198069 0.144129
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

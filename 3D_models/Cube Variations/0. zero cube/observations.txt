@@ -1,0 +1,1 @@
+We realized that entering the regular blender cube would work just fine with its materials
